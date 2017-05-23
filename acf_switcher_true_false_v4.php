@@ -16,7 +16,7 @@ class acf_field_switcher_true_false extends acf_field
 	{
 		// vars
 		$this->name = 'switcher_true_false';
-		$this->label = __("Switcher True / False",'acf');
+		$this->label = __("True / False (UI Toggle)",'acf');
 		$this->category = __("Choice",'acf');
 		$this->defaults = array(
 			'default_value'	=>	0,
