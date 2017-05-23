@@ -1,4 +1,4 @@
-=== ACF TOGGLE TRUE/FALSE FIELD===
+ACF TOGGLE TRUE/FALSE FIELD
 
 Contributors: Samjco
 Donate Link: https://PayPal.Me/samjco
@@ -13,6 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Nice UI Toggle TRUE/FALSE switch for ACF! 
 
 == Description == 
+
 Nice UI Toggle TRUE/FALSE switch "checkbox" for ACF!
 Change the color of toggle from acf_switcher_true_false_v4.php file
 
