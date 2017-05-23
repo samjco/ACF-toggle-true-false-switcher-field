@@ -3,6 +3,8 @@
 See Screenshot: 
 <img src="https://content.screencast.com/users/samcjo/folders/Jing/media/726307a1-125b-43bb-b3be-e4674ba2492c/toggle%20examples.png"/>
 
+Download the multiple checkboxes version here: https://github.com/samjco/acf-switcher
+
 Contributors: Samjco
 Donate Link: https://PayPal.Me/samjco
 Tags: advanced custom fields, acf, developer, checkbox, toggle, switch, UI
@@ -14,7 +16,6 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Nice UI Toggle TRUE/FALSE switch for ACF! 
-Download the multiple checkboxes version here: https://github.com/samjco/acf-switcher
 
 # Description 
 
