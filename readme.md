@@ -14,6 +14,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Nice UI Toggle TRUE/FALSE switch for ACF! 
+Download the multiple checkboxes version here: https://github.com/samjco/acf-switcher
 
 # Description 
 
